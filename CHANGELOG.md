@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### In Progress:
 - Adaptive version of Web-site for mobile devices.
 
+## [1.1] - 2022-10-13
+### Fixed:
+- Social Links icons in footer section.
+
 ## [1.0] - 2022-10-12 
 ### Added:
 - Full version of web site!
